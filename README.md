@@ -5,14 +5,15 @@ some random notes on random subjects pertaining (but not limited to) software de
 
 **_These as some curated cheatsheets of some daily work-related stuffs for a developer_**
 
-* [CLI Cheatsheet](cheatsheets/CLI-cheat-sheet.pdf)
-* [Git Commands Cheatsheet](cheatsheets/Git-Cheatsheet.pdf)
-* [Another Git Commands Cheatsheet](cheatsheets/git-cheatsheet-EN-white.pdf)
-* [Cheatsheet for "Git for SVN"](cheatsheets/git-for-subversion-cheat-sheet.pdf)
-* [Visual Studio Code Cheatsheet](cheatsheets/vs-code_cheat-sheet_windows.pdf)
-* [Website Optimization Cheatsheet](cheatsheets/website_optimization-cheat-sheet.pdf)
+* [CLI](cheatsheets/CLI-cheat-sheet.pdf)
+* [Git Commands](cheatsheets/Git-Cheatsheet.pdf)
+* [Another Git Commands](cheatsheets/git-cheatsheet-EN-white.pdf)
+* [Git for SVN](cheatsheets/git-for-subversion-cheat-sheet.pdf)
 * [Workflow of Version Control](cheatsheets/workflow-of-version-control.pdf)
-* [Xcode Cheatsheet](cheatsheets/xcode-cheat-sheet.pdf)
+* [Visual Studio Code](cheatsheets/vs-code_cheat-sheet_windows.pdf)
+* [Website Optimization](cheatsheets/website_optimization-cheat-sheet.pdf)
+* [Xcode](cheatsheets/xcode-cheat-sheet.pdf)
+* [Markdown](cheatsheets/markdown-cheatsheet-online.pdf)
 
 ## Best Websites for Remote Jobs
 `#` | Website | Description
