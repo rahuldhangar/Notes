@@ -33,7 +33,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 1 | [XAMPP](https://www.apachefriends.org/) | Windows, Mac, Linux | My favorite local web development environment
 2 | [Local by Flywheel](https://localwp.com/) |  Windows, Mac, Linux | My another favorite web dev env specifically for Wordpress websites
 3 | [HeidiSQL](https://www.heidisql.com/) | Windows | phpMyAdmin alternative to view & manage MySQL & MariaDB databases
-4 | [Visual Studio Code](https://code.visualstudio.com/) | My favorite open source (surprisingly!) code editor by Microsoft
+4 | [Visual Studio Code](https://code.visualstudio.com/) | Windows, Mac, Linux | My favorite open source (surprisingly!) code editor by Microsoft
 
 
 ## Online Tools
@@ -62,6 +62,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 3|[Workingnomads.co](https://www.workingnomads.co/jobs) | Features primarily full-time remote positions and has a great category/tag system to help you filter down the results you may be interested in
 4|[Flexjobs.com](https://www.flexjobs.com/) | Over 50 categories of individually screened job opportunities. This one is paid but competition is much lower
 5|[Upwork.com](https://www.upwork.com/) | Great for freelancers!
+6|[Toptal.com](https://www.toptal.com/) | Become one among the top 3% of freelance talent in the World
 
 
 ## Companies Hiring
@@ -69,3 +70,10 @@ Some random notes on random subjects pertaining (but not limited to) software de
 `#` | Company | Link
 ---|---|---
 1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) , [Job Portal](https://axelerant.applytojob.com/apply)
+
+## Coding Challenges
+
+`#` | Challenge | Description
+---|---|---
+1 | [geektrust Coding Problems](https://www.geektrust.in/coding-problem) | Coding problems on various
+2 | [30 days of Postman - for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers) | Improve your skills by tackling a new Postman challenge for 30 days in a row.
