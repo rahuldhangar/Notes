@@ -65,6 +65,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 4|[Flexjobs.com](https://www.flexjobs.com/) | Over 50 categories of individually screened job opportunities. This one is paid but competition is much lower
 5|[Upwork.com](https://www.upwork.com/) | Great for freelancers!
 6|[Toptal.com](https://www.toptal.com/) | Become one among the top 3% of freelance talent in the World
+7|[Angel.co](https://angel.co/) | One of the best websites for finding jobs all over the world.
 
 
 ## Companies Hiring
