@@ -9,6 +9,8 @@ Some random notes on random subjects pertaining (but not limited to) software de
 4 | [Interview Questions & Answers](#interview-questions--answers) | Some helpful links to interview Q&A's according to topic
 5 | [Best Websites for Remote Jobs](#best-websites-for-remote-jobs) | Curated list of some websites for finding remote Jobs
 6 | [Companies Hiring](#companies-hiring) | Some good companies with jobs worth applying for
+7 | [Coding Challenges](#coding-challenges) | Some websites providing competitive coding chanllenges and exercies to test your skills
+8 | [Learning Resources](#learning-resources) | Learn something new everyday from these resources!
 
 
 ## Cheatsheets
@@ -71,9 +73,18 @@ Some random notes on random subjects pertaining (but not limited to) software de
 ---|---|---
 1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) , [Job Portal](https://axelerant.applytojob.com/apply)
 
+
 ## Coding Challenges
 
 `#` | Challenge | Description
 ---|---|---
 1 | [geektrust Coding Problems](https://www.geektrust.in/coding-problem) | Coding problems on various
 2 | [30 days of Postman - for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers) | Improve your skills by tackling a new Postman challenge for 30 days in a row.
+
+
+## Learning Resources
+
+`#` | Name | Description
+---|---|---
+1 | [FreeCodeCamp](https://www.freecodecamp.org/) | THE BEST website for learning variety of web technologies (and more)
+2 | [FullstackOpen](https://fullstackopen.com/en) | Another great learning resource (full course from scratch) to learn Fullstack development
