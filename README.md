@@ -45,6 +45,16 @@ Some random notes on random subjects pertaining (but not limited to) software de
 1 | [DiffChecker](https://www.diffchecker.com/) | Tool to check difference between two piece of codes & compare them side by side
 2 | [writephponline](https://www.writephponline.com/) | Website for executing (testing) php code online
 3 | [WhatTheFont](https://www.myfonts.com/WhatTheFont/) | Find font used in an image
+4 | [Shadows](https://shadows.brumm.af/) | CSS Shadows
+5 | [Waves Generator](https://www.softr.io/tools/svg-wave-generator) | Gradient waves
+6 | [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/) | Border Shape
+7 | [Neumorphism](https://neumorphism.io/#e0e0e0) | Neumorphism
+8 | [CSS clip-path maker](https://bennettfeely.com/clippy/) | CSS Clip path maker
+9 | [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67) | Animation Curve
+10 | [CSs Gradient](https://cssgradient.io/) | CSS Gradient
+11 | [Get Waves](https://getwaves.io/) | CSS Waves
+12 | [SVG Wave](https://svgwave.in/) | Animated CSS Waves
+13 | [CSS Loading](https://loading.io/) | CSS Loading
 
 
 ## Interview Questions & Answers
