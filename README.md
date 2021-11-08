@@ -11,6 +11,8 @@ Some random notes on random subjects pertaining (but not limited to) software de
 6 | [Companies Hiring](#companies-hiring) | Some good companies with jobs worth applying for
 7 | [Coding Challenges](#coding-challenges) | Some websites providing competitive coding chanllenges and exercies to test your skills
 8 | [Learning Resources](#learning-resources) | Learn something new everyday from these resources!
+9 | [Coding Libs](#coding-libs) | My most used coding libraries
+10 | [Frontend Frameworks](#frontend-frameworks) | Some great front-end frameworks
 
 
 ## Cheatsheets
@@ -99,3 +101,20 @@ Some random notes on random subjects pertaining (but not limited to) software de
 ---|---|---
 1 | [FreeCodeCamp](https://www.freecodecamp.org/) | THE BEST website for learning variety of web technologies (and more)
 2 | [FullstackOpen](https://fullstackopen.com/en) | Another great learning resource (full course from scratch) to learn Fullstack development
+
+
+## Coding Libs
+
+`#` | Name | Description
+---|---|---
+1 | [Slick](https://kenwheeler.github.io/slick/) | the last carousel you'll ever need ([GH-repo](https://github.com/kenwheeler/slick))
+
+
+## Frontend Frameworks
+
+`#` | Name | Description
+---|---|---
+1 | [UIkit](https://getuikit.com/docs/introduction) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. ([GH-repo](https://github.com/uikit/uikit))
+2 | [Bootstrap](https://getbootstrap.com/) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web ([GH-repo](https://github.com/twbs/bootstrap))
+3 | [Understrap](https://understrap.com/) | Understrap is a WordPress theme framework. It's based on Bootstrap 4 and the starter theme Underscores. All glued together by npm and Sass ([docs](https://docs.understrap.com/#/), [learn](https://www.understrapacademy.com/))
+
