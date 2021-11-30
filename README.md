@@ -82,9 +82,10 @@ Some random notes on random subjects pertaining (but not limited to) software de
 
 ## Companies Hiring
 
-`#` | Company | Link
+`#` | Company | Link | Description
 ---|---|---
 1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) , [Job Portal](https://axelerant.applytojob.com/apply)
+2 | [10up](https://10up.com/) | [Careers](https://10up.com/careers/) | Wordpress focused web agency (ref: Syntax.fm ep-350)
 
 
 ## Coding Challenges
