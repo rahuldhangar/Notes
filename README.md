@@ -64,7 +64,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 * [React](https://github.com/sudheerj/reactjs-interview-questions#table-of-contents)
 * [Vue](https://github.com/sudheerj/vuejs-interview-questions)
 * [JavaScript](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
-* [Laravel](https://www.javatpoint.com/laravel-interview-questions) | 
+* [Laravel](https://www.javatpoint.com/laravel-interview-questions)
 
 
 ## Best Websites for Remote Jobs
@@ -84,8 +84,9 @@ Some random notes on random subjects pertaining (but not limited to) software de
 
 `#` | Company | Link | Description
 ---|---|---|---
-1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) , [Job Portal](https://axelerant.applytojob.com/apply)
+1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) | [Job Portal](https://axelerant.applytojob.com/apply)
 2 | [10up](https://10up.com/) | [Careers](https://10up.com/careers/) | Wordpress focused web agency (ref: Syntax.fm ep-350)
+3 | [rtCamp](https://rtcamp.com/) | [Careers](https://rtcamp.com/careers/) | Let’s use WordPress to solve complex engineering problems for household brands that touch millions of lives daily.
 
 
 ## Coding Challenges
@@ -102,6 +103,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 ---|---|---
 1 | [FreeCodeCamp](https://www.freecodecamp.org/) | THE BEST website for learning variety of web technologies (and more)
 2 | [FullstackOpen](https://fullstackopen.com/en) | Another great learning resource (full course from scratch) to learn Fullstack development
+3 | [rtLearn](https://learn.rtcamp.com/courses/) | CC0 Courses, Spread the Word(Press)!
 
 
 ## Coding Libs
