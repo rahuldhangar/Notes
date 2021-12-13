@@ -87,7 +87,7 @@ Some random notes on random subjects pertaining (but not limited to) software de
 1 | [Axelerant](https://www.axelerant.com/) | [Careers](https://www.axelerant.com/careers) | [Job Portal](https://axelerant.applytojob.com/apply)
 2 | [10up](https://10up.com/) | [Careers](https://10up.com/careers/) | Wordpress focused web agency (ref: Syntax.fm ep-350)
 3 | [rtCamp](https://rtcamp.com/) | [Careers](https://rtcamp.com/careers/) | Let’s use WordPress to solve complex engineering problems for household brands that touch millions of lives daily.
-4 | XWP(https://join.xwp.co/) | Note: Good pay and many Wordpress developer positions available to get hired.
+4 | [XWP](https://xwp.co/) | [Hiring](https://join.xwp.co/) | Note: Good pay and many Wordpress developer positions available to get hired.
 
 
 ## Coding Challenges
