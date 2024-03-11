@@ -28,6 +28,9 @@ Some random notes on random subjects pertaining (but not limited to) software de
 * [Website Optimization](cheatsheets/website_optimization-cheat-sheet.pdf)
 * [Xcode](cheatsheets/xcode-cheat-sheet.pdf)
 * [Markdown](cheatsheets/markdown-cheatsheet-online.pdf)
+* [HTML/CSS/JS](https://htmlcheatsheet.com)
+* [Python](https://www.pythoncheatsheet.org)
+* [Python pdf](cheatsheets/Python_cheatsheet.pdf)
 
 
 ## Softwares & Tools
